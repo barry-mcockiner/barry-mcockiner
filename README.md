@@ -2,7 +2,7 @@
 - 👀 I’m interested in pasting
 - 🌱 I’m currently learning pasting
 - 💞️ I’m looking to collaborate on pasting
-- 📫 How to reach me https://discord.gg/s3X5M3Hx2P
+- 📫 How to reach me https://discord.gg/hwZa4R2TQM
 
 <!---
 barry-mcockiner/barry-mcockiner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
